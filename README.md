@@ -9,3 +9,8 @@ The goal of this project is to build a portfolio website on a MERN stack and HTM
 - SCSS and Flex
 - Animations using Framer Motion
 - Sanity content platform (allows us to manage the content through the entire creation process)
+
+## Tips
+
+- Start Sanity by navigating to the `backend_sanity` folder and running `santiy start`
+ 
