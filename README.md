@@ -10,6 +10,15 @@ The goal of this project is to build a portfolio website on a MERN stack and HTM
 - Animations using Framer Motion
 - Sanity content platform (allows us to manage the content through the entire creation process)
 
+## Knowledge
+
+- **MVC** (Model, view, controller): This is a concept/design pattern of interactions that simplifies an app down to 3 components; the model, the view, and the controller. The goal to separate functionality, logic and the UI of an application.  
+  And example is below:
+    Model -> Database backend (the brain)
+    View -> front-end (the 5 senses)
+    controller -> server (the body)
+
+
 ## Tips
 
 - Start Sanity by navigating to the `backend_sanity` folder and running `santiy start`
