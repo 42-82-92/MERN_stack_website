@@ -11,7 +11,20 @@ The goal of this project is to build a portfolio website on a MERN stack and HTM
 - Sanity content platform (allows us to manage the content through the entire creation process)
 
 ## Up and running
+
+- Start the app by navigating to the `frontend_react` folder and run `npm start`
 - Start Sanity by navigating to the `backend_sanity` folder and running `santiy start`
+
+## Files and folders 
+
+- index.js
+- index.css
+- App.scss
+- App.js
+- /src/
+- /public/
+- package.json
+- package-lock.json
 
 ## Knowledge notes
 
@@ -22,19 +35,5 @@ The goal of this project is to build a portfolio website on a MERN stack and HTM
     Model -> Database backend (the brain)
     View -> front-end (the 5 senses)
     controller -> server (the body)
-<<<<<<< HEAD
-=======
 
-- ** **:
-  m
-
-
-
-## Tips
-
-- Start Sanity by navigating to the `backend_sanity` folder and running `santiy start`
- 
-
-
-## Knowledge notes
-**DOM**: (Document Object Model) The DOM is the structure of the web page and is seen by the user. On the technical side, the DOM is a tree structure that represents the web page. This can be programmatically accessed so that browser extensions, java script, and more can easily change how the DOM is rendered and interacted with. FireFox can show the DM in a 3D view, but if you don't have that then just think of a webpage as a series of layers, like a photoshop image.
+- **Sanity**: This is a document DB that manages content and schemas.
