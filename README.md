@@ -17,12 +17,12 @@ The goal of this project is to build a portfolio website on a MERN stack and HTM
 
 ## Files and folders 
 
-- index.js
-- index.css
+- index.css: The css for your main page.  
+- index.js: where you render the main react component onto your root element.  
 - App.scss
 - App.js
-- /src/
-- /public/
+- /src/: source code for you app.  
+- /public/: the public content seen on your website.  
 - package.json
 - package-lock.json
 
