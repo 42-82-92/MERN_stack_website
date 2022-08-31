@@ -26,15 +26,17 @@ const NavBar = () => {
 
         {toggle && (
             <motion.div
-              whileInView={{ x: [300,0] }}
+              whileInView={{ x: [300, 0] }}
               transition={{ duration: 0.85, ease: 'easeout'}}
             >
               <HiX onClick={() => setToggle(false)} />
+              <ul>
               {['home', 'about', 'work', 'skills', 'contact'].map((item) => (
                 <li className="app__flex p-text" key={`link-${item}`}>
                   <a href={`#${item}`} onClick={() => setToggle(false)} >{item}</a>
                 </li>
-             ))}  
+             ))}
+             </ul>  
             </motion.div>
           )
 
@@ -48,4 +50,4 @@ const NavBar = () => {
 export default NavBar
 
 
-// Resume video at https://youtu.be/3HNyXCPDQ7Q?t=3187
+// Resume video at https://youtu.be/3HNyXCPDQ7Q?t=3897
