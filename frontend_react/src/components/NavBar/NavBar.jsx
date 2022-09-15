@@ -48,6 +48,3 @@ const NavBar = () => {
 }
 
 export default NavBar
-
-
-// Resume video at https://youtu.be/3HNyXCPDQ7Q?t=3897
