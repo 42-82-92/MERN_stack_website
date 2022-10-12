@@ -2,7 +2,7 @@
 
 The goal of this project is to build a portfolio website on a MERN stack and HTML, CSS (SASS), and JavaScript. The portfolio build process will follow the work outlined in the video [Build and Deploy a Fullstack Responsive Portfolio Website | ULTIMATE Step By Step Tutorial 2022](https://www.youtube.com/watch?v=3HNyXCPDQ7Q)
 
-Resume video at: https://youtu.be/3HNyXCPDQ7Q?t=6241
+Resume video at: https://youtu.be/3HNyXCPDQ7Q?t=6964
 Next do the Sanity & React section, then Higher-order components if you have time/ feel comfortable.
 
 ## What will you learn?
