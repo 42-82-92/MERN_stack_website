@@ -3,7 +3,9 @@
 The goal of this project is to build a portfolio website on a MERN stack and HTML, CSS (SASS), and JavaScript. The portfolio build process will follow the work outlined in the video [Build and Deploy a Fullstack Responsive Portfolio Website | ULTIMATE Step By Step Tutorial 2022](https://www.youtube.com/watch?v=3HNyXCPDQ7Q)
 
 Resume video at: https://youtu.be/3HNyXCPDQ7Q?t=6964
-Next do the Sanity & React section, then Higher-order components if you have time/ feel comfortable.
+    Keep a list of packages you install, etc, so that when you make this into a docker image you'll already have the dependency list.  
+    Build a Windows ec2 instance (use Apache Guacamole if you can https://guacamole.apache.org), rewatch the video and note install dependencies, then download your code and run it.  
+
 
 ## What will you learn?
 
