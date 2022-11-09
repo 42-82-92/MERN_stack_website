@@ -1,3 +1,4 @@
+# docker build -f sanity.Dockerfile -t sanity .
 FROM node:18
 
 COPY backend_sanity /backend_sanity

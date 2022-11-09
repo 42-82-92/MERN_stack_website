@@ -1,3 +1,4 @@
+# docker build -f react.Dockerfile -t react .
 FROM node:18
 
 COPY frontend_react /frontend_react
