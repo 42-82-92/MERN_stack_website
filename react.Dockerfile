@@ -7,7 +7,7 @@ COPY frontend_react /frontend_react
 RUN npx create-react-app frontend_react -y; cd frontend_react; npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
 
 # Expose ports
-EXPOSE 80
+EXPOSE 3000
 # React/npm: port 80 
 
 # Start React
